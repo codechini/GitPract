@@ -1,0 +1,17 @@
+body{
+  margin: 10px;
+  padding: 10px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.sec-1{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 5%;
+}
+.ver{
+  background-color: rgb(28,168,132);
+  padding: 0px 10px;
+  border-radius: 25px;
+}
